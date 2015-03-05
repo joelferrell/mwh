@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  equip_id: MyString
+  model: MyString
+  purchase_date: MyString
+  description: MyText
+  id: 1
+
+two:
+  equip_id: MyString
+  model: MyString
+  purchase_date: MyString
+  description: MyText
+  id: 1
