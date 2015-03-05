@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :equipment
+
   resources :work_orders
 
   resources :mileages
